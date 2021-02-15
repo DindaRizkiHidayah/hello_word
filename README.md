@@ -2,4 +2,4 @@
 
 Output
 
-<img width="475" alt="1" src="https://user-images.githubusercontent.com/70737564/107772909-7237f780-6d6f-11eb-9029-495928df3a8b.PNG">
+![1](https://user-images.githubusercontent.com/70737564/107940494-e31f1f80-6fba-11eb-8874-1ef3f7d4cf1c.jpeg)
